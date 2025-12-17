@@ -1,0 +1,7 @@
+mysql:
+  MYSQL_HOST: localhost
+  MYSQL_USER: root
+  MYSQL_PASSWORD: "10871087"
+  MYSQL_DB: tourist_agency_db
+  MYSQL_CURSORCLASS: DictCursor
+  MYSQL_PORT: 3306
